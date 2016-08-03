@@ -1,1 +1,5 @@
-<? echo "hola mundo!!"; ?>
+<? echo "hola mundo!!";
+
+echo (true) ? "verdadero" : "falso" ;
+
+?>
